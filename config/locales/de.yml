@@ -72,3 +72,15 @@ de:
               blank: "Wachtwoord mag niet leeg zijn"  
   hello: "Hallo Welt"
   text: "Het is belangrijk om voor de patiënt te zorgen, gevolgd te worden door de patiënt, maar het zal gebeuren op zo'n moment dat er veel werk en pijn is. Want om tot in het kleinste detail te komen, niemand zou enig werk moeten uitoefenen tenzij hij er enig voordeel uit haalt. Wees niet boos op de pijn in de berisping in het plezier dat hij een haartje van de pijn wil zijn in de hoop dat er geen broedplaats is. Tenzij ze verblind worden door lust, komen ze niet tevoorschijn; ze zijn in gebreke als ze hun plichten opgeven en hun hart verzachten, dat wil zeggen, hun arbeid."
+  signup_form:
+    signup_title: Aanmelden
+    email_lable: E-mail
+    password_lable: Wachtwoord 
+    confirmation_password_lable: wachtwoordbevestiging
+    charecter_length: minimaal tekens
+  login_form:
+    login_title: Log in
+    email_lable: E-mail
+    password_lable: Wachtwoord
+    remember_me_lable: Onthoud me
+    forgot_your_password: Je wachtwoord vergeten

@@ -4,5 +4,7 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   root "homes#index"
-  resources :homes
+  scope "/:locale" do
+    resources :homes
+  end
 end

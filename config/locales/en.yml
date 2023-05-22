@@ -31,3 +31,17 @@
 
 en:
   hello: "Hello world"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  login_title: Log in
+  signup_form:
+    signup_title: Sign up
+    email_lable: Email
+    password_lable: Password
+    confirmation_password_lable: Password confirmation
+    charecter_length: characters minimum
+  login_form:
+    login_title: Log in
+    email_lable: Email
+    password_lable: Password
+    remember_me_lable: Remember me
+    forgot_your_password: Forgot your password
